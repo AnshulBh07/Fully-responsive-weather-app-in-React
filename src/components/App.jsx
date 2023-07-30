@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import bgimg from "./bgimages";
 import bgHashmap from "./bgimages";
 import Descriptions from "./Descriptions";
 import UserInput from "./UserInput";

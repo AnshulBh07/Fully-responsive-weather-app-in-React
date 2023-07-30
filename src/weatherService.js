@@ -1,5 +1,4 @@
 import axios from "axios";
-import myIcons from "./components/iconSVG";
 import weatherHashmap from "./components/iconSVG";
 
 //this file is used to fetch the data
